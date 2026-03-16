@@ -6,6 +6,20 @@ Pemain memutar mesin slot, mempertaruhkan koin, dan berpeluang mendapatkan JACKP
 ---
 ## cara menginstall
 
+clone repository
+```bash
+git clone https://github.com/MIKAgata/JEKPOT.git
+
+```
+cek apakah python sudah terinstal jika belum install dari python.org
+```bash
+python --version
+```
+
+
+
+---
+
 ---
 
 ## Fitur Utama
