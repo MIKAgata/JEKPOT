@@ -4,6 +4,9 @@ Program ini adalah game mesin jackpot sederhana berbasis terminal yang dibuat me
 Pemain memutar mesin slot, mempertaruhkan koin, dan berpeluang mendapatkan JACKPOT jika tiga simbol yang muncul sama.
 
 ---
+## cara menginstall
+
+---
 
 ## Fitur Utama
 - Tampilan emoji slot machine 🍒 🔔 7️⃣ 💎 🍋 ⭐
