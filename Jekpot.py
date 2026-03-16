@@ -1,6 +1,8 @@
 import random
 import time
 
+
+
 simbol = ["🍒", "🔔", "7️⃣", "💎", "🍋", "⭐"]
 saldo = 100
 
