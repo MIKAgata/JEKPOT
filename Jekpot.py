@@ -1,7 +1,8 @@
 import random
 import time
+import banner
 
-
+banner.tampilkan_ascii("banner.txt")
 
 simbol = ["🍒", "🔔", "7️⃣", "💎", "🍋", "⭐"]
 saldo = 100

@@ -9,4 +9,3 @@ def tampilkan_ascii(nama_file):
         print(f"Terjadi kesalahan: {e}")
 
 
-tampilkan_ascii("banner.txt")
